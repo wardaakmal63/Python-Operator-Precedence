@@ -92,10 +92,14 @@ Final Result: 21
 ```
 ## Key Takeaways:
 
-Parentheses (): Always resolve expressions inside brackets first.
-Exponentiation **: Next, evaluate any powers or roots.
-Multiplication, Division, and Modulus: These operators are on the same level, evaluated left to right.
-Addition and Subtraction: Finally, perform any addition or subtraction.
+Parentheses (): Always resolve expressions inside brackets first.<br>
+
+Exponentiation **: Next, evaluate any powers or roots.<br>
+
+Multiplication, Division, and Modulus: These operators are on the same level, evaluated left to right.<br>
+
+Addition and Subtraction: Finally, perform any addition or subtraction.<br>
+
 Understanding and applying these rules ensures that you can accurately predict the result of complex expressions in Python.
 
 
