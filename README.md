@@ -6,15 +6,15 @@ Division/Multiplication, Addition/Subtraction), and including the modulus operat
 
 ## Understanding Operator Precedence
 
-In Python, when you write an expression, the order in which operations are executed is determined by the precedence of the operators involved. 
+In Python, when you write an expression, the order in which operations are executed is determined by the precedence of the operators involved.<br> 
 This precedence dictates which operations are performed first when an expression contains multiple different operations. 
 
 ### The Order of Operations
 
-1. **Brackets `()`**: Operations inside parentheses are performed first.
-2. **Orders `**`**: Exponentiation (raising to a power) comes next.
-3. **Division `/`, Multiplication `*`, and Modulus `%`**: These operations are on the same level and are performed from left to right.
-4. **Addition `+` and Subtraction `-`**: Finally, addition and subtraction are performed from left to right.
+1. **Brackets `()`**: Operations inside parentheses are performed first.<br>
+2. **Orders `**`**: Exponentiation (raising to a power) comes next.<br>
+3. **Division `/`, Multiplication `*`, and Modulus `%`**: These operations are on the same level and are performed from left to right.<br>
+4. **Addition `+` and Subtraction `-`**: Finally, addition and subtraction are performed from left to right.<br>
 
 ### Detailed Examples
 
@@ -98,9 +98,9 @@ Exponentiation **: Next, evaluate any powers or roots.<br>
 
 Multiplication, Division, and Modulus: These operators are on the same level, evaluated left to right.<br>
 
-Addition and Subtraction: Finally, perform any addition or subtraction.<br>
+Addition and Subtraction: Finally, perform any addition or subtraction.<br><br><br>
 
-Understanding and applying these rules ensures that you can accurately predict the result of complex expressions in Python.
+#### Understanding and applying these rules ensures that you can accurately predict the result of complex expressions in Python.
 
 
 
