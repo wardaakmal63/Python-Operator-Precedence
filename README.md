@@ -98,7 +98,7 @@ Final Result: 21
 
 3. **Multiplication `*`, Division `/`, and Modulus `%`**: These operators are on the same level, evaluated left to right.<br>
 
-4. **Addition `+` and Subtraction `-`**: Finally, perform any addition or subtraction.<br><br><br><br><br><br>
+4. **Addition `+` and Subtraction `-`**: Finally, perform any addition or subtraction.<br><br><br>
 
 #### Understanding and applying these rules ensures that you can accurately predict the result of complex expressions in Python.
 
