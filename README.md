@@ -1,4 +1,4 @@
-##                             README FILE OF PYTHON OPERATOR PRECEDENCE USING BODMAS METHOD
+#                            README FILE OF PYTHON OPERATOR PRECEDENCE USING BODMAS METHOD
 
 
 This document explains the precedence of operators in Python, following the BODMAS rule (Brackets, Orders,
@@ -41,7 +41,7 @@ Addition + and Subtraction -:
 Final Result: 12
 ```
 
- ## Example 2
+#### Example 2
 
 ```python
 result = (4 + 3) * 2 ** 2 / 2
@@ -59,7 +59,7 @@ Multiplication * and Division /:
 
 Final Result: 14
 ```
-## Example 3
+#### Example 3
 ```python
 result = 8 / 4 * 2 + 3 ** 2 % 5
 
@@ -77,7 +77,7 @@ Addition +: 4 + 4 = 8.
 
 Final Result: 8
 ```
-## Example 4
+#### Example 4
 ```python
 result = 5 + 2 * (10 // 4) ** 3
 
